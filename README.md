@@ -1,75 +1,72 @@
 <!-- HERO SECTION -->
 <h1 align="center">🚀 Shaik Sandani Basha</h1>
-<p align="center"><b>JavaScript Developer · Config Enthusiast · Independent Builder</b></p>
+<p align="center"><b>JavaScript Enthusiast & Independent Web Developer</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/Independent%20Builder-111111?style=for-the-badge" alt="Independent Badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hello! I'm Shaik Sandani Basha, an independent developer driven by curiosity and a passion for clean, efficient JavaScript. My journey is powered by experimentation—from crafting configs to building full-stack demos—always learning, always growing. I thrive on transforming ideas into working code and believe that great projects start with solid foundations.
+Hi, I'm Shaik Sandani Basha — a passionate JavaScript developer who thrives on creating diverse, functional, and efficient web solutions. As an independent builder, I enjoy exploring new challenges, constantly improving my skill set, and turning ideas into practical, real-world applications. Driven by curiosity and a love for clean, maintainable code, I always seek opportunities to learn and connect within the developer community.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-- **Languages:** JavaScript, HTML, CSS
-- **Workflow:** Git & GitHub, VS Code
-- **Specialties:** Repository configuration, web app foundations
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-HTML-orange?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Style-blue?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Frontend-Web%20Apps-3C873A" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Learn-blueviolet" alt="Open to Learn"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🔧 shaiksanda
-**Description:** Essential config files that power my GitHub presence.  
-**Tech:** GitHub Actions, Markdown  
-**Impact:** Lays the foundation for streamlined project management and profile automation.
+- **task-manager-frontend**  
+  <sub>JavaScript | Frontend Web App</sub>  
+  <br>
+  A task management interface designed for productivity and ease of use. Focused on clean UI and efficient workflow, it demonstrates frontend development using modern JavaScript principles.
+  <br>
 
----
+- **tm-backend**  
+  <sub>JavaScript | Backend Service</sub>  
+  <br>
+  The engine behind the task manager — built to manage tasks, users, and backend logic. Prioritizes maintainability and API design best practices.
+  <br>
 
-### 💬 websocket-demo
-**Description:** A hands-on demo exploring real-time web communication using WebSockets.  
-**Tech:** JavaScript  
-**Why It Matters:** Showcases my interest in cutting-edge web technologies and event-driven architectures.
+- **financial-tracker-frontend**  
+  <sub>JavaScript | Personal Finance Tool</sub>  
+  <br>
+  Web application for tracking income and expenses, with a focus on usability and real-time feedback. Highlights practical application of JavaScript in daily life tools.
+  <br>
 
----
-
-### 📝 todos-frontend & todos-backend
-**Description:** A classic full-stack 'To-Do' web app, split into frontend and backend for modular development.  
-**Tech:** JavaScript (client & server)  
-**Focus:** Demonstrates my approach to separating concerns and building scalable web solutions.
+*Curious about more? Dive into my repositories — experimentation and continuous iteration are at the heart of my work!*
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaiksanda&show_icons=true&theme=default" alt="Shaik's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksanda&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaiksanda&show_icons=true&theme=default" alt="shaiksanda's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksanda&layout=compact&hide=css&theme=default" alt="shaiksanda's Top Languages" height="150"/>
 </p>
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Let's Connect!
 
-💡 Open to learning, sharing, and contributing to exciting web projects.  
-If you're passionate about JavaScript, configs, or building better web apps, let's connect!  
-Got an idea or project? [Start a discussion or open an issue](https://github.com/shaiksanda) — collaboration is just a click away.
+I’m always open to new ideas, feedback, and collaboration opportunities. If you're passionate about building web apps, experimenting with code, or simply want to share insights, let's connect and make something remarkable together!
+
+Feel free to explore my repositories and open an issue or pull request if something sparks your interest. Your collaboration could be the next big thing!
 
 ---
 
-<p align="center">
-  <b>✨ Let's build, learn, and grow together!</b>
-</p>
+<p align="center"><i>Building, learning, and growing — one project at a time.</i></p>
